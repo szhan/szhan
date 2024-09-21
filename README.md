@@ -5,25 +5,26 @@ I'm an NDPH Intermediate Fellow at the University of Oxford. I study the evoluti
 <details>
 <summary>Ancestral recombination graphs</summary>
 <br>
-XX
+Zhan et al. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. (bioRxiv)[https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1.abstract]
 </details>
 
 <details>
 <summary>Phylogenetic tools and methods</summary>
 <br>
-XX
+TODO
 </details>
 
 <details>
 <summary>Chromosomal evolution in plants</summary>
 <br>
-XX
+TODO
 </details>
 
 <details>
 <summary>Community ecology of extremophilic algae</summary>
 <br>
-XX
+Zhan et al. 2022. Geographic distance, sedimentation, and substrate shape cryptic crustose coralline algal assemblages in the world’s largest subtropical intertidal algal reef. (Mol Ecol.)[https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16455].
+Hsieh*, Zhan*, Liao* et al. 2018. The effects of contemporary selection and dispersal limitation on the community assembly of acidophilic microalgae. (J Phycol)[https://onlinelibrary.wiley.com/doi/abs/10.1111/jpy.12771].
 </details>
 
 <!--
