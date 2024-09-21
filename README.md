@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I'm an NDPH Intermediate Fellow at the University of Oxford studying the evolutionary, ecological, and epidemiological dynamics of pathogens. I use a variety of approaches, methods, and tools from genomics, population genetics, phylogenetics, and community ecology. I develop novel computational methodologies and apply them to large-scale publicly available genomic datasets and novel datasets collected through collaborations.
+I'm an NDPH Intermediate Fellow at the University of Oxford. I study the evolutionary, ecological, and epidemiological dynamics of pathogens using a variety of approaches, methods, and tools from genomics, population genetics, phylogenetics, and community ecology. My work involves developing novel computational methodologies and applying them to large-scale genomic datasets which are publicly available or generated through collaborations.
+
+#### Ancestral recombination graphs
+#### Phylogenetic tools and methods
+#### Chromosomal evolution in plants
+#### Community ecology of extremophilic algae
 
 <!--
 **szhan/szhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
