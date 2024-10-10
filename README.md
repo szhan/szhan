@@ -15,13 +15,14 @@ TODO
 </details>
 
 <details>
-<summary>Chromosomal evolution in plants</summary>
+<summary>Chromosomal evolutionary dynamics</summary>
 <br>
   <ul>
     <li>Li Z, Kinosian SP, <b>Zhan SH</b>, Barker MS. Ancient polyploidy and low rate of chromosome loss explain the high chromosome numbers of homosporous ferns. https://www.biorxiv.org/content/10.1101/2024.09.23.614530v1.abstract</li>
     <li><b>Zhan SH</b>, Otto SP, Barker MS. Broad variation in rates of polyploidy and dysploidy across flowering plants is correlated with lineage diversification. https://www.biorxiv.org/content/10.1101/2021.03.30.436382v1.abstract</li>
-    <li><b>Zhan SH</b>, Drori M, Goldberg EE, Otto SP, Mayrose I. 2016. Phylogenetic evidence for cladogenetic polyploidization in land plants. https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1600108</li>
-    <li>Mayrose I, <b>Zhan SH</b>, Rothfels CJ, Magnuson-Ford K, Barker MS, Rieseberg LH, Otto SP. 2011. Recently formed polyploid plants diversify at lower rates. https://www.science.org/doi/abs/10.1126/science.1207205</li>
+    <li><b>Zhan SH</b>, Drori M, Goldberg EE, Otto SP, Mayrose I. 2016. Phylogenetic evidence for cladogenetic polyploidization in land plants. <b>Am. J. Bot.</b> https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1600108</li>
+    <li><b>Zhan SH</b>, Glick L, Tsigenopoulos CS, Otto SP, Mayrose I. 2014. Comparative analysis reveals that polyploidy does not decelerate diversification in fish. <b>J. Evol. Biol.</b> https://academic.oup.com/jeb/article-abstract/27/2/391/7318530?login=false</li>
+    <li>Mayrose I, <b>Zhan SH</b>, Rothfels CJ, Magnuson-Ford K, Barker MS, Rieseberg LH, Otto SP. 2011. Recently formed polyploid plants diversify at lower rates. <b>Science</b> https://www.science.org/doi/abs/10.1126/science.1207205</li>
   </ul>
 </details>
 
@@ -29,10 +30,10 @@ TODO
 <summary>Community ecology of extremophiles</summary>
 <br>
   <ul>
-    <li><b>Zhan SH</b>, et al. 2022. Geographic distance, sedimentation, and substrate shape cryptic crustose coralline algal assemblages in the world’s largest subtropical intertidal algal reef. <b>Mol. Ecol.</b> <i>On the cover.</i> https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16455.
-    </li>
-    <li>Hsieh*, <b>Zhan SH*</b>, Liao*, et al. 2018. The effects of contemporary selection and dispersal limitation on the community assembly of acidophilic microalgae. <b>J. Phycol.</b> https://onlinelibrary.wiley.com/doi/abs/10.1111/jpy.12771.
-    </li>
+    <li><b>Zhan SH</b>, et al. 2022. Geographic distance, sedimentation, and substrate shape cryptic crustose coralline algal assemblages in the world’s largest subtropical intertidal algal reef. <b>Mol. Ecol.</b> <i>On the Cover.</i> https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16455</li>
+    </li><b>Zhan SH</b>, Shih CC, Liu SL. 2020. Reappraising plastid markers of the red algae for phylogenetic community ecology in the genomic era. <b>Ecol. Evol.</b> https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5984</li>
+    <li>Hsieh CJ*, <b>Zhan SH*</b>, Liao CP*, et al. 2018. The effects of contemporary selection and dispersal limitation on the community assembly of acidophilic microalgae. <b>J. Phycol.</b> https://onlinelibrary.wiley.com/doi/abs/10.1111/jpy.12771</li>
+    <li>Hsieh CJ, <b>Zhan SH</b>, Lin Y, Tang SL, Liu SL. 2015. Analysis of rbcL sequences reveals the global biodiversity, community structure, and biogeographical pattern of thermoacidophilic red algae (Cyanidiales). <b>J. Phycol.</b> https://onlinelibrary.wiley.com/doi/abs/10.1111/jpy.12310</li>
   </ul>
 </details>
 
