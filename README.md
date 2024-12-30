@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-I'm an NDPH Intermediate Fellow at the University of Oxford. I study the evolutionary, ecological, and epidemiological dynamics of pathogens using a variety of approaches, methods, and tools from genomics, population genetics, phylogenetics, and community ecology. My work involves developing novel computational methodologies and applying them to large-scale genomic datasets which are publicly available or generated through collaborations.
+I am an NDPH Intermediate Fellow at the University of Oxford studying the evolutionary, ecological, and epidemiological forces driving the spread of pathogens. I have a multidisciplinary background in genomics, population genetics, phylogenetics, and community ecology. My research involves developing novel computational methodologies and applying them to large-scale genomic datasets that are publicly available or generated through collaborations.
 
 <details>
 <summary>Ancestral recombination graphs</summary>
 <br>
-<b>Zhan SH</b>, et al. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1.abstract
+  <ul>
+    <li><b>Zhan SH</b>, et al. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1.abstract</li>
+  </ul>
 </details>
 
 <details>
