@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an NDPH Intermediate Fellow at the University of Oxford studying the evolutionary, ecological, and epidemiological forces driving the spread of pathogens. I have a multidisciplinary background in genomics, population genetics, phylogenetics, and community ecology. My research involves developing novel computational methodologies and applying them to large-scale genomic datasets that are publicly available or generated through collaborations.
+I am an NDPH Intermediate Fellow at the University of Oxford studying the evolutionary, ecological, and epidemiological forces driving the spread of pathogens. I have a diverse background in genomics, population genetics, phylogenetics, and community ecology. My current research involves developing novel computational methodologies and applying them to large-scale genomic datasets that are publicly available or generated through collaborations.
 
 <details>
 <summary>Ancestral recombination graphs</summary>
@@ -11,7 +11,7 @@ I am an NDPH Intermediate Fellow at the University of Oxford studying the evolut
 </details>
 
 <details>
-<summary>Phylogenetic tools and methods</summary>
+<summary>Genomic epidemiology</summary>
 <br>
 TODO
 </details>
@@ -20,8 +20,8 @@ TODO
 <summary>Chromosomal evolutionary dynamics</summary>
 <br>
   <ul>
-    <li>Li Z, Kinosian SP, <b>Zhan SH</b>, Barker MS. Ancient polyploidy and low rate of chromosome loss explain the high chromosome numbers of homosporous ferns. https://www.biorxiv.org/content/10.1101/2024.09.23.614530v1.abstract</li>
-    <li><b>Zhan SH</b>, Otto SP, Barker MS. Broad variation in rates of polyploidy and dysploidy across flowering plants is correlated with lineage diversification. https://www.biorxiv.org/content/10.1101/2021.03.30.436382v1.abstract</li>
+    <li>Li Z, Kinosian SP, <b>Zhan SH</b>, Barker MS. Ancient polyploidy and low rate of chromosome loss explain the high chromosome numbers of homosporous ferns. Submitted. https://www.biorxiv.org/content/10.1101/2024.09.23.614530v1.abstract</li>
+    <li><b>Zhan SH</b>, Otto SP, Barker MS. Broad variation in rates of polyploidy and dysploidy across flowering plants is correlated with lineage diversification. In revision. https://www.biorxiv.org/content/10.1101/2021.03.30.436382v1.abstract</li>
     <li><b>Zhan SH</b>, Drori M, Goldberg EE, Otto SP, Mayrose I. 2016. Phylogenetic evidence for cladogenetic polyploidization in land plants. <b>Am. J. Bot.</b> https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1600108</li>
     <li><b>Zhan SH</b>, Glick L, Tsigenopoulos CS, Otto SP, Mayrose I. 2014. Comparative analysis reveals that polyploidy does not decelerate diversification in fish. <b>J. Evol. Biol.</b> https://academic.oup.com/jeb/article-abstract/27/2/391/7318530?login=false</li>
     <li>Mayrose I, <b>Zhan SH</b>, Rothfels CJ, Magnuson-Ford K, Barker MS, Rieseberg LH, Otto SP. 2011. Recently formed polyploid plants diversify at lower rates. <b>Science</b> https://www.science.org/doi/abs/10.1126/science.1207205</li>
