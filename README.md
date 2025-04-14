@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an NDPH Intermediate Fellow at the University of Oxford studying the evolutionary, ecological, and epidemiological forces driving the spread of pathogens, primarily bacteria and viruses. I have a diverse background in genomics, population genetics, phylogenetics, and community ecology. My current research involves developing novel computational methodologies and applying them to large-scale genomic datasets that are publicly available or generated through collaborations.
+I am an NDPH Intermediate Fellow at the University of Oxford studying the evolutionary, ecological, and epidemiological forces driving the spread of pathogens. I have a diverse background in genomics, population genetics, phylogenetics, and community ecology. My current research involves developing novel computational methodologies and software tools and applying them to large-scale genomic datasets that are publicly available or generated through collaborations.
 
 <details>
 <summary>Ancestral recombination graphs</summary>
