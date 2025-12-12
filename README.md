@@ -7,8 +7,8 @@ I am a Research Fellow at the University of Oxford studying the forces driving t
 <br>
   <ul>
     <li>Deng Y, <b>Zhan SH</b>*, Zhang Y*, Zhang C, Chen B. 2025. Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species. *Equal contribution. arXiv. https://arxiv.org/abs/2512.05499.</li>
-    <li><b>Zhan SH</b>, et al. 2025. A Pandemic-Scale Ancestral Recombination Graphs for SARS-CoV-2. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v2</li>
-    <li><b>Zhan SH</b>, et al. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1</li>
+    <li><b>Zhan SH</b>,​ Wong Y*,​ Ignatieva A*​, Eaton K​, Guthrie I​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2025. A Pandemic-Scale Ancestral Recombination Graphs for SARS-CoV-2. *Equal contribution. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v3</li>
+    <li><b>Zhan SH</b>, Ignatieva A*​, Wong Y*, Eaton K​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. *Equal contribution. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1</li>
   </ul>
 </details>
 
@@ -22,10 +22,10 @@ TODO
 <summary>Chromosomal evolution</summary>
 <br>
   <ul>
-    <li>Li Z*, Kinosian SP*, <b>Zhan SH</b>, Barker MS. Ancient polyploidy and low rate of chromosome loss explain the high chromosome numbers of homosporous ferns. *Equal contribution. In revision. https://www.biorxiv.org/content/10.1101/2024.09.23.614530v1.abstract</li>
-    <li><b>Zhan SH</b>, Otto SP, Barker MS. Broad variation in rates of polyploidy and dysploidy across flowering plants is correlated with lineage diversification. In revision. https://www.biorxiv.org/content/10.1101/2021.03.30.436382v1.abstract</li>
+    <li>Li Z*, Kinosian SP*, <b>Zhan SH</b>, Barker MS. Ancient polyploidy and low rate of chromosome loss explain the high chromosome numbers of homosporous ferns. *Equal contribution. In revision. https://www.biorxiv.org/content/10.1101/2024.09.23.614530v1</li>
+    <li><b>Zhan SH</b>, Otto SP, Barker MS. Broad variation in rates of polyploidy and dysploidy across flowering plants is correlated with lineage diversification. In revision. https://www.biorxiv.org/content/10.1101/2021.03.30.436382v1</li>
     <li><b>Zhan SH</b>, Drori M, Goldberg EE, Otto SP, Mayrose I. 2016. Phylogenetic evidence for cladogenetic polyploidization in land plants. <b>Am. J. Bot.</b> https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1600108</li>
-    <li><b>Zhan SH</b>, Glick L, Tsigenopoulos CS, Otto SP, Mayrose I. 2014. Comparative analysis reveals that polyploidy does not decelerate diversification in fish. <b>J. Evol. Biol.</b> https://academic.oup.com/jeb/article-abstract/27/2/391/7318530?login=false</li>
+    <li><b>Zhan SH</b>, Glick L, Tsigenopoulos CS, Otto SP, Mayrose I. 2014. Comparative analysis reveals that polyploidy does not decelerate diversification in fish. <b>J. Evol. Biol.</b> https://academic.oup.com/jeb/article-abstract/27/2/391/7318530</li>
     <li>Mayrose I, <b>Zhan SH</b>, Rothfels CJ, Magnuson-Ford K, Barker MS, Rieseberg LH, Otto SP. 2011. Recently formed polyploid plants diversify at lower rates. <b>Science</b> https://www.science.org/doi/abs/10.1126/science.1207205</li>
   </ul>
 </details>
