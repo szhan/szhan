@@ -1,21 +1,16 @@
 ## Hi there 👋
 
-I am a Research Fellow at the University of Oxford studying the forces driving the emergence, spread, and adaptation of pathogens, particularly viruses and bacteria. I have a diverse background in genomics, population genetics, phylogenetics, and community ecology. My current research involves developing novel computational methodologies and software tools and applying them to large-scale genomic datasets that are publicly available or generated through collaborations.
+I am a Research Fellow at the University of Oxford studying the evolution of microbes, particularly pathogenic viruses and bacteria. I have a diverse background in genomics, population genetics, phylogenetics, and community ecology. My current research involves developing novel computational methodologies and software tools and applying them to large-scale genomic datasets.
 
 <details>
 <summary>Ancestral recombination graphs</summary>
 <br>
   <ul>
-    <li>Deng Y, <b>Zhan SH</b>*, Zhang Y*, Zhang C, Chen B. 2025. Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species. *Equal contribution. arXiv. https://arxiv.org/abs/2512.05499.</li>
+    <li>​Jeffery B, et al. 2025. Population-scale Ancestral Recombination Graphs with tskit 1.0. arXiv. https://arxiv.org/abs/2602.09649</li>
+    <li>Deng Y, <b>Zhan SH</b>*, Zhang Y*, Zhang C, Chen B. 2025. Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species. *Equal contribution. arXiv. https://arxiv.org/abs/2512.05499</li>
     <li><b>Zhan SH</b>,​ Wong Y*,​ Ignatieva A*​, Eaton K​, Guthrie I​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2025. A Pandemic-Scale Ancestral Recombination Graphs for SARS-CoV-2. *Equal contribution. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v3</li>
     <li><b>Zhan SH</b>, Ignatieva A*​, Wong Y*, Eaton K​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. *Equal contribution. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1</li>
   </ul>
-</details>
-
-<details>
-<summary>Genomic epidemiology</summary>
-<br>
-TODO
 </details>
 
 <details>
