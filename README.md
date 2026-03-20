@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I am a Research Fellow at the University of Oxford studying the evolution of microbes, particularly pathogenic viruses and bacteria. I have a diverse interests in genomics/metagenomics, statistical/population genetics, phylogenetics, and community ecology. My current research involves developing novel computational methodologies and software tools and applying them to large-scale genomic datasets.
+I am a Research Fellow based at Oxford Population Health studying the evolution of microbes, particularly pathogenic bacteria and viruses. I have diverse interests in genomics/metagenomics, statistical/population genetics, phylogenetics, and community ecology. My current research involves developing novel computational methods and software tools to build genetic genealogies using large-scale bacterial and viral genomic datasets.
 
 <details>
 <summary>Ancestral recombination graphs</summary>
 <br>
   <ul>
     <li>​Jeffery B, et al. 2025. Population-scale Ancestral Recombination Graphs with tskit 1.0. arXiv. https://arxiv.org/abs/2602.09649</li>
-    <li>Deng Y, <b>Zhan SH</b>*, Zhang Y*, Zhang C, Chen B. 2025. Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species. *Equal contribution. arXiv. https://arxiv.org/abs/2512.05499</li>
-    <li><b>Zhan SH</b>,​ Wong Y*,​ Ignatieva A*​, Eaton K​, Guthrie I​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2025. A Pandemic-Scale Ancestral Recombination Graphs for SARS-CoV-2. *Equal contribution. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v3</li>
+    <li>Deng Y, <b>Zhan SH</b>*, Zhang Y*, Zhang C, Chen B. 2025. Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species. *Equal contribution. In revision. arXiv. https://arxiv.org/abs/2512.05499</li>
+    <li><b>Zhan SH</b>,​ Wong Y*,​ Ignatieva A*​, Eaton K​, Guthrie I​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2025. A Pandemic-Scale Ancestral Recombination Graphs for SARS-CoV-2. *Equal contribution. In revision. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v3</li>
     <li><b>Zhan SH</b>, Ignatieva A*​, Wong Y*, Eaton K​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. *Equal contribution. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1</li>
   </ul>
 </details>
