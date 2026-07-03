@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Research Fellow based at Oxford Population Health studying the evolution of microbes, particularly pathogenic bacteria and viruses. I have diverse interests in genomics/metagenomics, statistical/population genetics, phylogenetics, and community ecology. My current research involves developing novel computational methods and software tools to build genetic genealogies using large-scale bacterial and viral genomic datasets.
+I am an independent Research Fellow based at Oxford Population Health studying the evolution of microbes, particularly pathogenic bacteria and viruses. My current research focuses on developing novel computational methods and software tools to build genetic genealogies and applying them to large-scale genomic datasets to learn about the emergence, transmission, and adaptation of pathogens. I have diverse interests in statistical/population genetics, phylogenetics, and community ecology.
 
 <details>
 <summary>Ancestral recombination graphs</summary>
