@@ -6,7 +6,7 @@ I am an independent Research Fellow based at Oxford Population Health studying t
 <summary>Ancestral recombination graphs</summary>
 <br>
   <ul>
-    <li>​Jeffery B, et al. 2025. Population-scale Ancestral Recombination Graphs with tskit 1.0. arXiv. https://arxiv.org/abs/2602.09649</li>
+    <li>​Jeffery B, Wong Y, Thornton K, Tsambos G, ..., <b>Zhan SH*</b>, et al. 2025. Population-scale Ancestral Recombination Graphs with <i>tskit</i> 1.0. *Joint second. <b>Nat Methods</b>. In press. arXiv. https://arxiv.org/abs/2602.09649</li>
     <li>Deng Y, <b>Zhan SH</b>*, Zhang Y*, Zhang C, Chen B. 2025. Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species. *Equal contribution. In revision. arXiv. https://arxiv.org/abs/2512.05499</li>
     <li><b>Zhan SH</b>,​ Wong Y*,​ Ignatieva A*​, Eaton K​, Guthrie I​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2025. A Pandemic-Scale Ancestral Recombination Graphs for SARS-CoV-2. *Equal contribution. In revision. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v3</li>
     <li><b>Zhan SH</b>, Ignatieva A*​, Wong Y*, Eaton K​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. *Equal contribution. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1</li>
