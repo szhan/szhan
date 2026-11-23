@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-I am an independent Research Fellow based at Oxford Population Health studying the evolution of microbes, particularly pathogenic bacteria and viruses. My current research focuses on developing novel computational methods and software tools to build genetic genealogies and applying them to large-scale genomic datasets to learn about the emergence, transmission, and adaptation of pathogens. I have diverse interests in statistical/population genetics, phylogenetics, and community ecology.
+I am a Research Fellow based at Oxford Population Health studying the evolution of microbes, particularly pathogenic bacteria and viruses (SARS-CoV-2 and influenza viruses). My research currently focuses on developing novel computational methods and software tools to build genetic genealogies and applying them to large-scale genomic datasets to learn about the emergence, transmission, and adaptation of pathogens. I have diverse interests in statistical/population genetics, phylogenetics, epidemiology, and community ecology.
 
 <details>
 <summary>Ancestral recombination graphs</summary>
 <br>
   <ul>
     <li>​Jeffery B*, Wong Y*, Thornton K*, Tsambos G*, ..., <b>Zhan SH**</b>, et al. 2026. Population-scale Ancestral Recombination Graphs with <i>tskit</i> 1.0. *Joint first. **Joint second. <b>Nat Methods</b>. https://www.nature.com/articles/s41592-026-03325-1</li>
-    <li>Deng Y, <b>Zhan SH</b>*, Zhang Y*, Zhang C, Chen B. 2025. Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species. *Equal contribution. In revision. arXiv. https://arxiv.org/abs/2512.05499</li>
-    <li><b>Zhan SH</b>,​ Wong Y*,​ Ignatieva A*​, Eaton K​, Guthrie I​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2025. A Pandemic-Scale Ancestral Recombination Graphs for SARS-CoV-2. *Equal contribution. In revision. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v3</li>
-    <li><b>Zhan SH</b>, Ignatieva A*​, Wong Y*, Eaton K​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. *Equal contribution. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1</li>
+    <li>Deng Y, <b>Zhan SH</b>*, Zhang Y*, Zhang C, Chen B. 2025. Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species. *Joint second. In revision. arXiv. https://arxiv.org/abs/2512.05499</li>
+    <li><b>Zhan SH</b>,​ Wong Y*,​ Ignatieva A*​, Eaton K​, Guthrie I​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2025. A Pandemic-Scale Ancestral Recombination Graphs for SARS-CoV-2. *Joint second. In revision. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v3</li>
+    <li><b>Zhan SH</b>, Ignatieva A*​, Wong Y*, Eaton K​, Jeffery B​, Palmer DS​, Murall CL​, Otto SP, Kelleher J. 2023. Towards Pandemic-Scale Ancestral Recombination Graphs of SARS-CoV-2. *Joint second. bioRxiv. https://www.biorxiv.org/content/10.1101/2023.06.08.544212v1</li>
   </ul>
 </details>
 
@@ -17,7 +17,7 @@ I am an independent Research Fellow based at Oxford Population Health studying t
 <summary>Chromosomal evolution</summary>
 <br>
   <ul>
-    <li>Li Z*, Kinosian SP*, <b>Zhan SH</b>, Barker MS. Ancient polyploidy and low rate of chromosome loss explain the high chromosome numbers of homosporous ferns. *Equal contribution. In revision. https://www.biorxiv.org/content/10.1101/2024.09.23.614530v1</li>
+    <li>Li Z*, Kinosian SP*, <b>Zhan SH</b>, Barker MS. Ancient polyploidy and low rate of chromosome loss explain the high chromosome numbers of homosporous ferns. *Joint first. In revision. https://www.biorxiv.org/content/10.1101/2024.09.23.614530v1</li>
     <li><b>Zhan SH</b>, Otto SP, Barker MS. Broad variation in rates of polyploidy and dysploidy across flowering plants is correlated with lineage diversification. In revision. https://www.biorxiv.org/content/10.1101/2021.03.30.436382v1</li>
     <li><b>Zhan SH</b>, Drori M, Goldberg EE, Otto SP, Mayrose I. 2016. Phylogenetic evidence for cladogenetic polyploidization in land plants. <b>Am. J. Bot.</b> https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1600108</li>
     <li><b>Zhan SH</b>, Glick L, Tsigenopoulos CS, Otto SP, Mayrose I. 2014. Comparative analysis reveals that polyploidy does not decelerate diversification in fish. <b>J. Evol. Biol.</b> https://academic.oup.com/jeb/article-abstract/27/2/391/7318530</li>
